@@ -1,0 +1,5 @@
+<html>
+<body>
+[["Try BTC\/USDT AtomicSwap exchange","Feature","Try BTC\/USDT AtomicSwap exchange","1F2D48","\/exchange\/usdt-to-btc","https:\/\/screenshots.wpmix.net\/chrome_MTTeS0mbkL3n2WjS0U6gL2x5l9iID93U.png"],["Trade SWAP on uniswap","https:\/\/mytoken.wpmix.net\/wp-content\/uploads\/2020\/08\/uniswap.790b05c7.png","Trade SWAP on uniswap","https:\/\/mytoken.wpmix.net\/wp-content\/uploads\/2020\/08\/54728784_627012524430628_6057944830049255424_o.png","https:\/\/github.com\/swaponline\/MultiCurrencyWallet\/blob\/master\/docs\/SWAPTOKEN.md",""],["Buy bitcoin via card","","Buy bitcoin using VISA\/MC","5199FF","https:\/\/itez.swaponline.io\/?DEFAULT_FIAT=%7BDEFAULT_FIAT%7D&locale=%7Blocale%7D&btcaddress=%7Bbtcaddress%7D","https:\/\/growup.wpmix.net\/wp-content\/uploads\/2020\/05\/pngflow.com_.png"],["How we becomes profitable","Story from founder","",""]]
+</body>
+</html>
